@@ -207,17 +207,19 @@
 
 ![image](https://user-images.githubusercontent.com/105020538/202320485-324536c2-adb9-4eb7-b3b8-351d9dd9e6d3.png)
 
-
-
-
-
-
-
 ># 4. VIDEO
 
 ># 5. CONCLUSIONES
 
+- Mediante la lectura de los capitulos,aprendí a medir la corriente y las diferencias de potencial en circuitos por fuentes de tensión y resistores 
+
+- Se verifico cuan importante son las leyes y formulas para la resolucion de ejercicios complejos en donde estan relacionadas la corriente, voltaje, resistencia, energia y potencia. 
+
 ># 6. BIBLIOGRAFÍA
 
+- FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN 
 
+- ProfesorenLinea (2016). Electricidad: Potencia y resistencia. Recuperado de: https://www.profesorenlinea.cl/fisica/ElectricidadPotenciaResist.htm#:~:text=Entonces%20podemos%20deducir%20que%2C%201,de%20tensi%C3%B3n%20o%20voltaje%20aplicado. 
+
+- FOTOCASA. (2020). Calcular el consumo de electricidad. Recuperado de: https://www.fotocasa.es/fotocasa-life/hogar/energia/como-calcular-el-consumo-de-electricidad/  
 
