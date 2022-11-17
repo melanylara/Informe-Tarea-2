@@ -209,6 +209,8 @@
 
 ># 4. VIDEO
 
+https://youtu.be/PJ-Pd2l7X-k 
+
 ># 5. CONCLUSIONES
 
 - Mediante la lectura de los capitulos,aprendí a medir la corriente y las diferencias de potencial en circuitos por fuentes de tensión y resistores 
